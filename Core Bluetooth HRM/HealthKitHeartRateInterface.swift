@@ -2,7 +2,7 @@
 //  HealthKitInterface.swift
 //  Core Bluetooth HRM
 //
-//  Created by Software Testing on 4/13/18.
+//  Created by Andrew L. Jaffee on 4/13/18.
 //
 /*
  
