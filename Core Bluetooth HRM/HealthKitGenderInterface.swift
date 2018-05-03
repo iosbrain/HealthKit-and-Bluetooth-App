@@ -1,5 +1,5 @@
 //
-//  HealthKitInterface.swift
+//  HealthKitGenderInterface.swift
 //  Core Bluetooth HRM
 //
 //  Created by Andrew L. Jaffee on 4/13/18.
